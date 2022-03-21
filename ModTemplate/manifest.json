@@ -1,8 +1,8 @@
 {
-  "filename": "ModTemplate.dll",
-  "author": "Raicuparta",
-  "name": "Mod Template",
-  "uniqueName": "Raicuparta.ModTemplate",
-  "version": "0.1.0",
+  "filename": "Hollodjustment.dll",
+  "author": "Tlya",
+  "name": "Hollodjustment",
+  "uniqueName": "Tlya.hollodjustment",
+  "version": "1.0.0",
   "owmlVersion": "2.3.2"
 }
