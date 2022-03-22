@@ -3,6 +3,8 @@
 
 An Outer Wilds mod that adjusts Hollow's Lantern's meteors.
 
+Compatible with [Quantum Space Buddies](https://github.com/Raicuparta/quantum-space-buddies)..
+
 ## Installation
 
 You can install the mod with the [Outer Wilds Mod Manager](https://outerwildsmods.com/mod-manager/).
